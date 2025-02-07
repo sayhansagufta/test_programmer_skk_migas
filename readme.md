@@ -12,6 +12,7 @@ Program ini adalah bagian dari tes untuk posisi programmer di SKK Migas. Program
 - **Program4**: Piramida 1 (c).
 - **Program5**: Piramida 1 (d).
 - **Program6**: Program Aray.
+- **TEST SQL**
 
 ## Prerequisites
 
