@@ -1,0 +1,7 @@
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\bin\Debug\Test_Programmer_skk_migas.exe.config
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\bin\Debug\Test_Programmer_skk_migas.exe
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\bin\Debug\Test_Programmer_skk_migas.pdb
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\obj\Debug\Test_Programmer_skk_migas.csproj.AssemblyReference.cache
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\obj\Debug\Test_Programmer_skk_migas.csproj.CoreCompileInputs.cache
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\obj\Debug\Test_Programmer_skk_migas.exe
+C:\Users\Shayhan\source\repos\Test_Programmer_skk_migas\Test_Programmer_skk_migas\obj\Debug\Test_Programmer_skk_migas.pdb
